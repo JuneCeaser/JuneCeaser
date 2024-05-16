@@ -14,6 +14,7 @@
     <li>🌱 I’m currently learning Kotlin</li>
     <li>💬 Ask me about React</li>
     <li>📫 How to reach me: <a href="mailto:it22575876@my.sliit.lk">it22575876@my.sliit.lk</a></li>
+    <li>📫 How to reach me: <a href="whatssapp:0761149756">0761149756</a></li>
     <li>⚡ Fun fact: No Fun</li>
   </ul>
 

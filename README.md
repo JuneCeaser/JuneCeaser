@@ -6,7 +6,7 @@
 <body>
   <h1 align="center">Hi 👋, I'm June Ceaser</h1>
   <h3 align="center">From Sri Lanka</h3>
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAe/coding.png">
+  <img align="right" alt="Coding" width="400" src="https://juneceaser.ct.ws/assets/images/junewithpc.jpg">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=juneceaser&label=Profile%20views&color=0e75b6&style=flat" alt="juneceaser" /> </p>
 
   <ul>

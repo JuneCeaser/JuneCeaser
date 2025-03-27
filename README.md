@@ -6,7 +6,7 @@
 <body>
   <h1 align="center">Hi 👋, I'm June Ceaser</h1>
   <h3 align="center">From Sri Lanka</h3>
-  <img align="right" alt="Coding" width="400" src="https://www.geekboots.com/_next/image?url=https%3A%2F%2Fcdn.geekboots.com%2Fgeek%2Fc-programming-hero-1732803880215.webp&w=3840&q=75">
+  <img align="right" alt="Coding" width="400" src="[https://www.geekboots.com/_next/image?url=https%3A%2F%2Fcdn.geekboots.com%2Fgeek%2Fc-programming-hero-1732803880215.webp&w=3840&q=75](https://wirekat.com/content/images/size/w2000/2024/02/_230d8dbe-cc42-4a00-b74b-6104ec7f9e08.jpeg)">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=juneceaser&label=Profile%20views&color=0e75b6&style=flat" alt="juneceaser" /> </p>
 
   <ul>

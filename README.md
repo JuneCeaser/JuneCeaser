@@ -6,7 +6,7 @@
 <body>
   <h1 align="center">Hi 👋, I'm June Ceaser</h1>
   <h3 align="center">From Sri Lanka</h3>
-  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dljnncgdr/image/upload/v1743072022/newsletters/el9pupshizbfvufel5th.jpg">
+ 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=juneceaser&label=Profile%20views&color=0e75b6&style=flat" alt="juneceaser" /> </p>
 
   <ul>
